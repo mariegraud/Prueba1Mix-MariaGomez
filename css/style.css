@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+#hero{
+	background-color: #292929;
+	padding: 10%;
+	color: #fff;
+	font-family: Open Sans;
+}
+
+#hero h4{
+	font-size: 15px;
+}
+
+.btn-learn{
+	background-color: #f74f4c;
+	border-radius: 40px;
+	color: #fff;
+}
+
+.btn-get{
+	background-color: transparent;
+	border-color: #f74f4c;
+	border-radius: 40px;
+	color: #f74f4c;
+	
+}
+
+#features1{
+	background-color:#222222;
+	padding: 25%;
+	text-align: center;
+	font-size: 26px;
+	color: #aaa;
+	
+}
+
+#features1 h5{
+	font-size: 18px;
+	color: #fff;
+}
+
+#features1 h2{
+	color: #fff;
+}
+
+#features1 h5{
+	color: #aaa;
+}
+
+.square1{
+	background-color:#654682;
+	width: 300px;
+	height: 300px;
+	padding-left: 10%;
+	padding-bottom:16%;
+	padding-top: 5%;
+	
+}
+
+#features2{
+	background-color:#161616;
+	padding: 23%;
+	padding-top: 20%;
+	color: #aaa;
+	padding-left: 15%;
+	padding-right:15%;
+}
+
+#features2 h4{
+	color: #fff;
+}
+
+.red{
+	background-color:#f74f4c;
+	height:60px;
+	width: 330px;
+	padding-top: 5%;
+	padding-left: 5%;
+}
+
+.yellow{
+	background-color:#f4c33a;
+	height:60px;
+	width: 160px;
+	padding-top: 5%;
+	padding-left: 5%;
+}
+
+.btn-down{
+	background-color: transparent;
+	border-color: #f74f4c;
+	border-radius: 40px;
+	color: #f74f4c;
+	
+}
+
+#available{
+	background-color: #292929;
+	padding: 29%;
+	color: #fff;
+	text-align: center;
+}
+
+#available h1{
+	font-size: 90px;
+}
+
+.yellow2{
+	background-color:#f4c33a;
+	height:100px;
+	width: 600px;
+	padding-top: 5%;
+	padding-left: 5%;
+}
+
+#footer{
+	background-color: #222222;
+	padding: 5%;
+	color: #fff;
+	text-align: center;
+}
